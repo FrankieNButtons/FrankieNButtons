@@ -1,4 +1,4 @@
-<pre
+<pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -10,7 +10,7 @@
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/ 
-</pre>    
+</pre>  
 ## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!!!
 I'm a full stack developer specializing in -Rust- -Python- and -JavaScripts- from PRChina(🇨🇳)
 
