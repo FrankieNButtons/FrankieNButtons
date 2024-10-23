@@ -1,16 +1,32 @@
-## Hi there 👋
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/ 
+     
+## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!!!
+I'm a full stack developer specializing in -Rust- -Python- and -JavaScripts- from PRChina(🇨🇳)
 
-<!--
-**FrankieNButtons/FrankieNButtons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am not that great as I expected yet, however I'm gaining progresses:
 
-Here are some ideas to get you started:
+### 🛠 &nbsp;My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+
+
+### ⭐️ &nbsp;Github Stars
+
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrankieNButtons&count_private=true&show_icons=true"/>
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:frankiebuttons@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-frankiebuttons@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/FrankieNButtons/count.svg" />
