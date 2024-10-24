@@ -18,8 +18,8 @@ I am not that great as I expected yet, however I'm gaining progresses:
 
 ### 🛠 &nbsp;My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+
+| ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) | 
 
 
 ### ⭐️ &nbsp;Github Stars
