@@ -22,7 +22,7 @@ I am not that great as I expected yet, however I'm gaining progresses:
 
 | ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) |
 
-###  &nbsp;A Gamer as well
+### 🎮 &nbsp;A Gamer as well
 A multi-Platform Gamer across PS5 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) and PC ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white).
 
 
