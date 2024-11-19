@@ -12,7 +12,7 @@
      \/__/         \/__/         \/__/     \/__/     \/__/ 
 </pre>  
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GithubProfile%20Page%20，It's%20FrankieNButtons%20there!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20GithubProfile，It's%20FrankieNButtons%20there!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 ## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!!!
 I'm a full stack developer specializing in Rust, Python and JavaScripts from PRChina(🇨🇳)  
