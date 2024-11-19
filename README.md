@@ -28,6 +28,8 @@ I am not that great as I expected yet, however I'm gaining progresses:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankieNButtons&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /><br/>
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
 </p>
+
+
 ### 🎮 &nbsp;A Gamer as well
 A multi-Platform Gamer across PS5 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) and PC ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white).
 
