@@ -15,12 +15,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20Github%20profile，It's%20FrankieNButtons%20there!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 ## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!!!
-I'm a full stack developer specializing in Rust, Python and JavaScripts from PRChina(🇨🇳)  
-and  a data analysist as well.  
+I'm a full stack developer specializing in Python, Rust and JavaScripts from PRChina(🇨🇳)  
+and a data analysist as well.  
 
-I am not that great as I expected yet, however I'm gaining progresses:
+I am not that great as I expected yet, however, I'm gaining progresses:
 
-### 🛠 &nbsp;My Tech Stack
+### 🛠 &nbsp;My Working Stack
 <div align="center">
 
 | VS Code | Python | <center>Rust</center> | JavaScript | Node.js |
