@@ -48,9 +48,6 @@ A multi-Platform Gamer across PS5 ![Playstation 5](https://img.shields.io/badge/
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="mailto:frankiebuttons@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-frankiebuttons@qq.com-blue?style=flat-square&logo=gmail"></a>
 
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/FrankieNButtons/count.svg" />
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Debug%20the%20world%20with%20Code/Math&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </div>
