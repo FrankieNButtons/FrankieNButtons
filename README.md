@@ -1,17 +1,17 @@
 <div align="center">
 <pre>
-         ___           ___           ___       ___       ___     
-        /\__\         /\  \         /\__\     /\__\     /\  \    
-       /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-      /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-     /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+         ___           ___           ___       ___       ___
+        /\__\         /\  \         /\__\     /\__\     /\  \
+       /:/  /        /::\  \       /:/  /    /:/  /    /::\  \
+      /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \
+     /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \
     /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
     \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-         \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-         /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-        /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/ 
-</pre>  
+         \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /
+         /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /
+        /:/  /       \:\__\        \:\__\    \:\__\    \::/  /
+        \/__/         \/__/         \/__/     \/__/     \/__/
+</pre>
 </div>
 
 <p align="center">
@@ -19,18 +19,31 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Frankie+%F0%9F%91%8B;Full+Stack+Dev+%7C+Data+Analyst;Python+%7C+Rust+%7C+JavaScript" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=560&lines=Hi+there!+I'm+Frankie+%F0%9F%91%8B;PhD+Candidate+%7C+Full+Stack+Dev;Python+%7C+Rust+%7C+JavaScript;Hangzhou%2C+China+%F0%9F%87%A8%F0%9F%87%B3" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=FrankieNButtons&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!!!
-I'm a full stack developer specializing in Python, Rust and JavaScript from PRChina (🇨🇳)
-and a data analyst as well.
+---
 
-I am not that great as I expected yet, however, I'm making progress:
+## Hi there 👋 It's Frankie here. Welcome to my Sharing Space!
+
+> *"I don't have a bio, cuz it sometimes cause biohazard."*
+
+PhD candidate in **Economic Statistics** @ Zhejiang Gongshang University 🏫, based in Hangzhou, Zhejiang 🇨🇳.
+
+Fluent in **Python**, **Rust**, and **JavaScript** — and occasionally in English too. I build things that *(mostly)* don't break in production, wrangle data into insights, and fight with the borrow checker for sport.
+
+**Previously:**
+- 🎓 B.Sc. Data Science @ Zhejiang Gongshang University
+- 💼 Algorithm Intern @ Zhejiang University Institute of Computer Innovation
+- 🔬 Research Intern @ Yang Lab, Westlake University
+- 🧬 Visiting Student @ AGI Lab of Stan. Li, Westlake University
+- ✈️ Exchange Student @ School of Engineering & Informatics, University of Sussex
+
+> *"Frankie will become better and better."* — my own README. Probably the most optimistic thing I've ever written.
 
 ---
 
@@ -38,9 +51,9 @@ I am not that great as I expected yet, however, I'm making progress:
 
 <div align="center">
 
-| VS Code | Python | Rust | JavaScript | Node.js |
-| --- | --- | --- | --- | --- |
-| ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff) | ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) | ![Node.js](https://img.shields.io/badge/-Node-333333?style=for-the-badge&logo=node.js) |
+| VS Code | Python | Rust | JavaScript |
+| --- | --- | --- | --- |
+| ![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff) | ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust) | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 
 </div>
 
@@ -51,11 +64,22 @@ I am not that great as I expected yet, however, I'm making progress:
 
 ---
 
-### 🚀 &nbsp;Currently Working On
+### 🚀 &nbsp;Featured Projects
 
-- Sharpening **Rust** systems programming skills
-- Building data pipelines with **Python**
-- Exploring full-stack projects with **TypeScript**
+<p align="center">
+<a href="https://github.com/FrankieNButtons/NodeAligner">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrankieNButtons&repo=NodeAligner&theme=transparent&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/FrankieNButtons/TorchWrapper">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrankieNButtons&repo=TorchWrapper&theme=transparent&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/FrankieNButtons/MyNoteCloud">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrankieNButtons&repo=MyNoteCloud&theme=transparent&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/FrankieNButtons/qd-project-manager">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrankieNButtons&repo=qd-project-manager&theme=transparent&hide_border=true&description_lines_count=2" />
+</a>
+</p>
 
 ---
 
@@ -77,18 +101,41 @@ I am not that great as I expected yet, however, I'm making progress:
 
 ---
 
+### 🕹️ &nbsp;Indie Game Dev — *Lights Up*
+
+During my exchange at the **University of Sussex**, I made my first indie game — **Lights Up**, a Mining & Racing game built with Unity Engine. Turns out game dev is just debugging with extra steps and a deadline.
+
+<p align="center">
+<a href="https://github.com/FrankieNButtons/Lights-Up">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=FrankieNButtons&repo=Lights-Up&theme=transparent&hide_border=true&description_lines_count=2" />
+</a>
+</p>
+
+---
+
 ### 🎮 &nbsp;A Gamer as well
 
-A multi-platform gamer across PS5 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) and PC ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white).
+When I'm not arguing with the compiler, I'm a multi-platform gamer across:
+
+![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+*(Yes, both. No, I don't sleep enough.)*
 
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:frankiebuttons@qq.com"><img src="https://img.shields.io/badge/Email-frankiebuttons@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:frankiebuttons@qq.com">
+  <img src="https://img.shields.io/badge/QQ%20Mail-frankiebuttons@qq.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-<a href="https://github.com/FrankieNButtons"><img src="https://img.shields.io/badge/GitHub-FrankieNButtons-black?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/FrankieNButtons">
+  <img src="https://img.shields.io/badge/GitHub-FrankieNButtons-black?style=for-the-badge&logo=github" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Hangzhou%2C%20Zhejiang%20%F0%9F%87%A8%F0%9F%87%B3-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <div align="center">
