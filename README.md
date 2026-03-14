@@ -83,18 +83,11 @@ Fluent in **Python**, **Rust**, and **JavaScript** — and occasionally in Engli
 
 ---
 
-### 🏆 &nbsp;Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FrankieNButtons&theme=transparent&no-frame=true&row=1&column=7" />
-</div>
-
----
 
 ### ⭐️ &nbsp;Github Stars & Contribution
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=FrankieNButtons&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=FrankieNButtons&theme=transparent&hide_border=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs,issues" />
 <img width="400" src="https://streak-stats.demolab.com?user=FrankieNButtons&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" /><br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=FrankieNButtons&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
